@@ -25,4 +25,10 @@
         android:layout_height="wrap_content"
         android:text="Konstantina" />
 
+    <TextView
+        android:id="@+id/txtVw_paul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Paul" />
+
 </LinearLayout>

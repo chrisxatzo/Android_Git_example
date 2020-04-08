@@ -20,5 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
         TextView txtVw_konstantina = findViewById(R.id.txtVw_konstantina);
         txtVw_konstantina.setText("Konstantina");
+
+        TextView txtVw_paul = findViewById(R.id.txtVw_paul);
+        txtVw_paul.setText("Paul");
     }
 }
